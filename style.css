@@ -1,0 +1,37 @@
+body {
+  font-family: Roboto,Light;
+  color: white;
+}
+
+.nav, .form{
+  background-color: #28A745;
+}
+
+.collapse a {
+  color: white;
+}
+
+.cuppon{
+  height: 40px;
+}
+
+.card :hover{
+  cursor: pointer;
+}
+
+.card-direccion{
+  color: #707070;
+  float: start;
+}
+
+.precio-sin-promocion {
+  font-size: 16px;
+}
+
+.precio-con-promocion{
+  font-size: 20px;
+}
+
+.derechos{
+  color: #707070;
+}
